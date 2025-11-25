@@ -257,4 +257,13 @@ It demonstrates how SQL can transform raw retail data into **meaningful business
 
 ---
 
-🎉 **Your README is now 100% GitHub-ready and will render perfectly in Preview.**
+## 📬 Stay Updated & Connect With Me
+
+For more content on SQL, data analysis, and other data-related topics, feel free to connect or reach out:
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/mohd-faaiz-669730388/
+
+📧 **Email:**  
+mohdfaaizbly@outlook.com
+
