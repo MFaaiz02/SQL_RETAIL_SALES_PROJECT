@@ -257,9 +257,9 @@ It demonstrates how SQL can transform raw retail data into **meaningful business
 
 ---
 
-## 📬 Stay Updated & Connect With Me
+## 📬 Stay Connect With Me
 
-For more content on SQL, data analysis, and other data-related topics, feel free to connect or reach out:
+### Feel free to connect or reach out:
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/mohd-faaiz-669730388/
